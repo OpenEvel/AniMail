@@ -1,0 +1,2 @@
+# AniMail
+Modern email client
